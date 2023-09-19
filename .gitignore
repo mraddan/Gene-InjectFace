@@ -1,0 +1,4 @@
+*.onnx
+asset/
+Inject Face Asset/
+result/
